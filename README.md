@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mohamed Shathik
-
+- 👀 I’m interested in Data Analytics
 - 🔭 I’m currently pursuing Data Science
 - 🌱 I’m currently enrolled in Guvi Geek Networks IIT-M
 - 👯 I’m looking for an Entrylevel role in Data Science
